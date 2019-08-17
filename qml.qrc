@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CButton.qml</file>
+        <file>Zer0Black.png</file>
+    </qresource>
+</RCC>
